@@ -130,4 +130,4 @@ Dreipfelt
     data.gouv.fr pour les données ouvertes
     La communauté Streamlit
 
-<p align="center"> Développé avec ❤️ dans le cadre d'une formation Data Science </p> ```
+Développé avec ❤️ dans le cadre d'une formation Data Science </p> ```
